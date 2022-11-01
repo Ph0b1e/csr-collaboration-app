@@ -1,7 +1,7 @@
 <template>
   <div id="overview">
 
-    <h1 class="animated bounceInLeft">Bitcoin Price Index</h1>
+    <h1 class="animated bounceInLeft">The Bitcoin Price Index</h1>
 
     <div class="box loading" v-if="loading">
       <p>Loading...</p>
